@@ -1,0 +1,50 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: "Overpass", sans-serif;
+}
+body
+{
+    background-color: hsl(216, 12%, 8%);;
+}
+.thank-you-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 570px;
+    height: 22rem;
+    width: 27rem;
+    margin-top: 150px;
+    padding: 30px 30px;
+    border-radius: 30px ;
+    background-color: #19202a;;
+}
+
+.thank-you-container p
+{
+    color: #fb7413;
+    font-size: 1rem;
+    padding: 0.5rem 2rem;
+    border-radius: 2rem;
+    background-color: #252d37;
+    font-weight: 700;
+} 
+.thank-you-container  h2
+{
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+   
+}
+
+.thank-you-container  h3
+{
+    font-size: 1rem;
+    color: #959eac;
+    text-align: center;
+    padding: 5px;
+    line-height: 1.7rem;
+}

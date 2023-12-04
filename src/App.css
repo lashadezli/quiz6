@@ -1,0 +1,64 @@
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color:  hsl(216, 12%, 8%);
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: column;
+  background-color: hsl(213, 19%, 18%);
+  padding: 30px 30px;
+  border-radius: 30px;
+}
+
+
+.rating-container h1
+{
+  color: white;
+  font-size: 30px;
+}
+
+.rating-container p
+
+{
+  margin: 0;
+  color: white;
+}
+
+figure
+{
+ margin: 0;
+}
+.rating
+{
+  color: white;
+}
+.stars-container
+{
+  margin-top: 20px;
+}
+.stars-container button
+{
+  margin-right: 25px;
+  padding: 13px 20px;
+  border-radius: 30px;
+  background-color: hsl(216, 12%, 54%);
+}
+.button
+{
+  margin-top: 30px;
+}
+
+.button button
+{
+ 
+  padding: 10px 150px;
+  background-color: hsl(25, 97%, 53%);
+  letter-spacing: 3px;
+  color: white;
+}
